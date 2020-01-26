@@ -1,7 +1,7 @@
 # AMX AV Generic Control
  
 # How It Works
-
+![alt text](https://github.com/jackbilestech/AMX-AV-Generic-Control/blob/master/img/capture.PNG)
 ## TP_Event_Listeners.AXI
 
 This file is intended to be included and to operate with `./Interface/AV Generic Control.tpX`. Using any other `.tp5` or `.tp4` file will create undesired effects on the processor code and will not work as intended.
