@@ -42,17 +42,18 @@ DEFINE_FUNCTION fnTouchPanelInit(){
 
 ```
 
-In here is where you can assign your config per panel using the variable `TouchPanel`. Each panel is treated as an index in an array defined by the `dvTP` constant. The `TouchPanel Variable has a structure as follows:
+In here is where you can assign your config per panel using the variable `TouchPanel`. Each panel is treated as an index in an array defined by the `dvTP` constant. for `TouchPanel` config, see (Touch Panel Config)[#Config]
 
+# Config
 ```c#
 STRUCT uTP{
 	DEV Device
-	INTEGER MicMuteOption
-	INTEGER MasterVolumeOption
-	INTEGER SystemShutDownOption
-	INTEGER MenuOption
-	INTEGER Video
-	CHAR RoomName[50]
+	INTEGER MicMuteOption // Enables / Disables the Mic Mute Widget. Widget is hidden when disbaled
+	INTEGER MasterVolumeOption // Enables / Disables the Master Volume Slider Widget. Widget is hidden when disbaled
+	INTEGER SystemShutDownOption // Enables / Disables the System Shut Down Widget. Widget is hidden when disbaled
+	INTEGER MenuOption // Enables / Disables the Mic Mute Widget. Widget is hidden when disbaled
+	INTEGER Video // Not Implemented yet
+	CHAR RoomName[50] // Room Name to be displayed on screen
 }
 ```
 
