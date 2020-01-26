@@ -147,6 +147,6 @@ DEFINE_FUNCTION fnMasterVolume(DEV panel, INTEGER value){
 #DEFINE TOUCH_PANEL_MENU_SELECT_EVENT
 
 DEFINE_FUNCTION fnMenuSelect(DEV panel, DEVCHAN button){
-	SEND_STRING 0, "'Panel {',panel.NUMBER,'} requested MenudSelect of Channel: ', ITOA(button.input.channel)"
+	SEND_STRING 0, "'Panel {',panel.NUMBER,'} requested MenudSelect of Channel: ', ITOA(button.channel)"
 }
 ```
