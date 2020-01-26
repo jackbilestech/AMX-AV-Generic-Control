@@ -16,11 +16,11 @@ This file is intended to be included and to operate with `./Interface/AV Generic
 
 - As of current there is no implemntation to breakup Default Feedback from indivudal components. It's either all or nothing.
 
-- The maximum allowed numebr of panels is set to `10`, this is the absolute maximum allowed for this design. Allocating anymore panels to the system will cause the entire system to lag and slow down, afecting UX.
+- The maximum allowed numebr of panels is    set to `10`, this is the absolute maximum allowed for this design. Allocating anymore panels to the system will cause the entire system to lag and slow down, afecting UX.
 
 # How To Get Started
 
-The below snippet must be included in the `mainline`. This function is called once the program starts using `DEFINE_START`.
+The below snippet must be included in the `mainline`. 
 
 Asssign your panel(s) `D:P:S` to this include file altering the values in `dvTP`. The first `DEV` in this array will be panel `TouchPaenl[1]`, the second panel `TouchPanel[2]` and so forth. The include will not compile without the `dvTP` dveice array or the `fnTouchPanelInit` function declaration.
 
@@ -33,6 +33,7 @@ DEV dvTP[] = {
     10004:1:0
 }
 ```
+This function is called once the program starts using `DEFINE_START`.
 ```c#
 DEFINE_FUNCTION fnTouchPanelInit(){
     //Apply Config to Panels
