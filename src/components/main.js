@@ -13,7 +13,7 @@ class ReadMe extends Component{
         }
     }
     componentDidMount (){
-        fetch(`${apiEndpoint}/repos/${username}/${thisRepo}/readme`)
+        fetch(`${apiEndpoint}/repos/${username}/${thisRepo}/contents/README.md`)
             .then(res => res.json())
             .then(
                 (result) => {
