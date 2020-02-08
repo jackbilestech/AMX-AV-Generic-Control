@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc076a0fb69bdc3df72072363579953f",
+    "revision": "56ea7de8ce5a8050ca11241a7266ee1b",
     "url": "/AMX-AV-Generic-Control/index.html"
   },
   {
-    "revision": "337794cac1af76d2d408",
+    "revision": "f56582e390e40ef40214",
     "url": "/AMX-AV-Generic-Control/static/css/main.f159de91.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AMX-AV-Generic-Control/static/js/2.5bbe9f82.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "337794cac1af76d2d408",
-    "url": "/AMX-AV-Generic-Control/static/js/main.cb610e64.chunk.js"
+    "revision": "f56582e390e40ef40214",
+    "url": "/AMX-AV-Generic-Control/static/js/main.84097ccc.chunk.js"
   },
   {
     "revision": "262026c02dac3e7bc58d",

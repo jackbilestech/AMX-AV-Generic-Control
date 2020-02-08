@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AMX-AV-Generic-Control/precache-manifest.261d92dcbfcad84ae56bc4de7a9af3fb.js"
+  "/AMX-AV-Generic-Control/precache-manifest.478ece21508e8b4c956796771bfabee8.js"
 );
 
 self.addEventListener('message', (event) => {
