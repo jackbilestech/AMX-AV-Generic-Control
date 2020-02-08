@@ -18,6 +18,8 @@ class ReadMe extends Component{
             .then(
                 (result) => {
                 result.content = window.atob(result.content)
+                console.log(result);
+                
                 this.setState(result);
                 
                 
