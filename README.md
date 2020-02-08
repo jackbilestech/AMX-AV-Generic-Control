@@ -1,2 +1,0 @@
-# AMX AV Generic Control
- 
