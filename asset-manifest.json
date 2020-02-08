@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AMX-AV-Generic-Control/static/css/main.f159de91.chunk.css",
-    "main.js": "/AMX-AV-Generic-Control/static/js/main.e7e51180.chunk.js",
-    "main.js.map": "/AMX-AV-Generic-Control/static/js/main.e7e51180.chunk.js.map",
+    "main.js": "/AMX-AV-Generic-Control/static/js/main.e8fa6c12.chunk.js",
+    "main.js.map": "/AMX-AV-Generic-Control/static/js/main.e8fa6c12.chunk.js.map",
     "runtime-main.js": "/AMX-AV-Generic-Control/static/js/runtime-main.0ad42ace.js",
     "runtime-main.js.map": "/AMX-AV-Generic-Control/static/js/runtime-main.0ad42ace.js.map",
     "static/js/2.5bbe9f82.chunk.js": "/AMX-AV-Generic-Control/static/js/2.5bbe9f82.chunk.js",
     "static/js/2.5bbe9f82.chunk.js.map": "/AMX-AV-Generic-Control/static/js/2.5bbe9f82.chunk.js.map",
     "index.html": "/AMX-AV-Generic-Control/index.html",
-    "precache-manifest.9bde987c87f0f889a42059f5a37c659c.js": "/AMX-AV-Generic-Control/precache-manifest.9bde987c87f0f889a42059f5a37c659c.js",
+    "precache-manifest.498ef42b0f8e9a5fe08ef88bb4960feb.js": "/AMX-AV-Generic-Control/precache-manifest.498ef42b0f8e9a5fe08ef88bb4960feb.js",
     "service-worker.js": "/AMX-AV-Generic-Control/service-worker.js",
     "static/css/main.f159de91.chunk.css.map": "/AMX-AV-Generic-Control/static/css/main.f159de91.chunk.css.map",
     "static/js/2.5bbe9f82.chunk.js.LICENSE.txt": "/AMX-AV-Generic-Control/static/js/2.5bbe9f82.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0ad42ace.js",
     "static/js/2.5bbe9f82.chunk.js",
     "static/css/main.f159de91.chunk.css",
-    "static/js/main.e7e51180.chunk.js"
+    "static/js/main.e8fa6c12.chunk.js"
   ]
 }
