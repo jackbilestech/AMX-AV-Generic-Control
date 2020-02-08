@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8acb53bd0ca7145c267dca2a8b8283e6",
+    "revision": "507e291d6eb87151c05f973694dcaf6f",
     "url": "/AMX-AV-Generic-Control/index.html"
   },
   {
-    "revision": "351abd957c57f70cf111",
+    "revision": "d268e5fbedbae9d8f41e",
     "url": "/AMX-AV-Generic-Control/static/css/main.f159de91.chunk.css"
   },
   {
-    "revision": "990fe1326fb3b32e3524",
-    "url": "/AMX-AV-Generic-Control/static/js/2.5bbe9f82.chunk.js"
+    "revision": "8be17b10f4f4e8556452",
+    "url": "/AMX-AV-Generic-Control/static/js/2.cd8ebb72.chunk.js"
   },
   {
-    "revision": "61460a9918638f89da762dcefb150768",
-    "url": "/AMX-AV-Generic-Control/static/js/2.5bbe9f82.chunk.js.LICENSE.txt"
+    "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
+    "url": "/AMX-AV-Generic-Control/static/js/2.cd8ebb72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "351abd957c57f70cf111",
-    "url": "/AMX-AV-Generic-Control/static/js/main.c790d3c3.chunk.js"
+    "revision": "d268e5fbedbae9d8f41e",
+    "url": "/AMX-AV-Generic-Control/static/js/main.2f0bbb26.chunk.js"
   },
   {
     "revision": "262026c02dac3e7bc58d",
